@@ -1,2 +1,3 @@
 # FRONTEND2026
-Repositorio de codigo para la clase de frontend
+
+HOLAS ESTE ES MI PRIMER CAMBIO EN EL REPOSITORIO DE FRONTEND 2026 
